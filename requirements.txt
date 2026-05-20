@@ -1,0 +1,4 @@
+brain-morph[io]
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sse-starlette>=1.8
